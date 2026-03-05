@@ -158,7 +158,4 @@ I am 23 years old and passionate about full stack development, deep learning, an
   <a href="https://www.linkedin.com/in/robin-landraud/" target="_blank" rel="noreferrer">
     <img alt="Linkedin" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin">
   </a>
-  <a href="https://www.malt.fr/profile/robinlandraud1" target="_blank" rel="noreferrer">
-    <img alt="Malt" width="40" height="40" src="https://play-lh.googleusercontent.com/pCYfqB1v-c9Phmvjxji_v37Lf1l59fg1pIy17PztwmS2yoRvGtNAgHZlOHQf0AQo_MZv">
-  </a>
 </p>
