@@ -51,6 +51,9 @@ I am 23 years old and passionate about full stack development, deep learning, an
   <a href="https://angular.dev/" target="_blank" rel="noreferrer">
     <img alt="Angular" width="40" height="40" src="https://skillicons.dev/icons?i=angular">
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img alt="Express" width="40" height="40" src="https://go-skill-icons.vercel.app/api/icons?i=expressjs">
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img alt="Django" width="40" height="40" src="https://skillicons.dev/icons?i=django">
   </a>
