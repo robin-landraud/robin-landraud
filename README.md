@@ -118,7 +118,7 @@ I am 23 years old and passionate about full stack development, deep learning, an
     <img alt="Unity" width="40" height="40" src="https://skillicons.dev/icons?i=unity">
   </a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img alt="DBeaver" width="40" height="40" src="https://skillicons.dev/icons?i=dbeaver">
+    <img alt="DBeaver" width="40" height="40" src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver">
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img alt="Postman" width="40" height="40" src="https://skillicons.dev/icons?i=postman">
@@ -133,7 +133,7 @@ I am 23 years old and passionate about full stack development, deep learning, an
     <img alt="PyCharm" width="40" height="40" src="https://skillicons.dev/icons?i=pycharm">
   </a>
   <a href="https://cursor.com/" target="_blank" rel="noreferrer">
-    <img alt="Cursor" width="40" height="40" src="https://skillicons.dev/icons?i=cursor">
+    <img alt="Cursor" width="40" height="40" src="https://go-skill-icons.vercel.app/api/icons?i=cursor">
   </a>
 </p>
 
