@@ -126,6 +126,9 @@ I am 23 years old and passionate about full stack development, deep learning, an
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img alt="Figma" width="40" height="40" src="https://skillicons.dev/icons?i=figma">
   </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img alt="Jira" width="40" height="40" src="https://go-skill-icons.vercel.app/api/icons?i=jira">
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img alt="VSCode" width="40" height="40" src="https://skillicons.dev/icons?i=vscode">
   </a>
